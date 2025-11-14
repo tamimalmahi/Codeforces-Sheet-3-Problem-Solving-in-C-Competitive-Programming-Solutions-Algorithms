@@ -35,7 +35,7 @@ Each problem includes:
 ## 🔍 Keywords / SEO Tags
 `C programming`, `Codeforces solutions`, `competitive programming`,  
 `algorithm implementations in C`, `CP problems`, `coding interview preparation`,  
-`data structures and algorithms`, `C source code`, `Codeforces practice`
+`data structures and algorithms`, `C source code`, `Codeforces practice`, `sheet 3`, `codeforces sheet 3`
 
 ## 🤝 Contributions
 Feel free to fork, star ⭐, or contribute solutions/improvements!
